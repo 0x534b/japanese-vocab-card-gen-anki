@@ -1,4 +1,4 @@
-# Japanese Vocab Card Generator
+# Japanese Vocabulary Card Generator
 This is an addon for the SRS software Anki that allows you to quickly add Japanese vocabulary to your deck using the [jisho.org](jisho.org) API.
 
 ## Installation
@@ -12,7 +12,7 @@ This opens a new window where you can select the deck you would like to add to, 
 ![Image of a window displaying a list of decks to select from and two buttons entitled "Add Card" and "Add From File"](docs/add%20words.png)
 
 The Add From File option allows you to select a text file containing Japanese words separated by newlines to add to your deck. After processing the file, a report is displayed:\
-![Image of a window containing a table with columns "Success," "Note Exists," "Not Found," and "Connection Error" with Japanese words sorted between them](docs/report.png)
+![Image of a window containing a table with columns "Success," "Note Exists," "Not Found," and "Connection Error" with Japanese words sorted between them](docs/report.PNG)
 
 The Add Card option allows you to search for an individual word and decide whether to add it to your deck:\
 ![Image of a window with an input box reading めんどくさい followed by a list box containing various information about the word and two buttons labeled "Search Jisho" and "Add Card"](docs/add%20card.png)
